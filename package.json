@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lokeshkumar-2003/.github.io/foodx_system",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
